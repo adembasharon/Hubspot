@@ -130,6 +130,128 @@ margin-bottom: 2em;
 
 
 
+
+.bottom{
+    background-color: #45BAA7;
+    
+}
+.color{
+    background-color:#F5F8FA ;
+}
+.container h1{
+    text-align: center;
+    color: #33475B;
+margin: 2em 0em;
+padding-top: 2em;
+}
+.p{
+    text-align: center;
+    font-size: 1.2rem;
+    color:#39475F ;
+}
+.btn{
+    padding: 0.7em 1.5em;
+    color:#FDEEFC;
+    background-color:#F3795A ;
+    border-radius:0.3em;
+    border:none;
+}
+
+.button{
+    padding:0.7em 2em;
+    border-radius:0.3em;
+    border:1px solid #F3795A;
+    background-color: #FDF1EE;
+    margin-left: 1.4em;
+}
+.input{
+    text-align: center;
+}
+
+.mhub{
+    display:flex;
+}
+
+.mhub h2{
+    color: #485A6D;
+}
+.xmhub-li{
+    color: #A0ABB3;
+}
+.sale-img{
+    display:flex
+
+}
+
+.sec2 h2{
+    color:#33475B;
+}
+.sec2 h2 p{
+    color:#5F6E7E;
+}
+.service-img{
+    display: flex;
+
+}
+
+.service h2{
+color: #33475B;
+
+}
+.service h2 p{
+    color:#5F6E7E;
+}
+
+.hub-img{
+    display: flex;
+}
+
+
+.operation-img{
+    display: flex;
+}
+
+.features img{
+width:30px
+}
+
+.features {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.card {
+    width: 30%;
+    margin: 1em;
+    background-color: #fff;
+    padding: 2em;
+}
+
+.card h3 {
+    margin: 1em 0;
+}
+.buttn {
+width: 100%;
+background-color:#F3795A ;
+border: none;
+padding:1em;
+}
+.botom{
+    background-color: #F3795A;
+    padding: 1em;
+    border: none;
+}
+.botom-div{
+display: flex;
+color:red;
+justify-content: space-between;
+}
+.botom-div img{
+   width:100%; 
+}
+
+
 /* section3 styles */
 
 .container {
