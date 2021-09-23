@@ -5,18 +5,11 @@
 
 /* section2 styles */
 
-*{
-box-sizing:border-box;
-margin:0;
-padding:0;
-}
+
+
 .bottom{
     background-color: #45BAA7;
     
-}
-.container{
-    width: 80% ;
-    margin:0 auto;
 }
 .color{
     background-color:#F5F8FA ;
